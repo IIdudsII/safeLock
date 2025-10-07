@@ -1,7 +1,22 @@
 # SafeLock
-Este projeto apresenta uma fechadura eletrônica inteligente desenvolvida para oferecer mais segurança e praticidade no controle de acesso a residências e pequenos estabelecimentos.
-Através de um aplicativo mobile, o usuário pode trancar ou destrancar portas remotamente, monitorar o uso em tempo real e receber notificações de acesso.
+Este projeto apresenta uma fechadura eletrônica inteligente desenvolvida para oferecer segurança, praticidade e controle remoto no acesso a residências e pequenos estabelecimentos.
+Por meio de um aplicativo mobile, o usuário pode trancar ou destrancar portas à distância, acompanhar o histórico de acessos, configurar alarmes automáticos e receber notificações em tempo real.
 
-O sistema combina tecnologia Wi-Fi e RFID, permitindo o uso tanto por meio do celular quanto por cartões de aproximação. Além de aumentar a segurança, a solução traz comodidade para o dia a dia, sendo útil também para pessoas que moram sozinhas ou desejam controlar o acesso de visitantes e funcionários.
+O sistema integra hardware e software para proporcionar uma experiência moderna e funcional. A comunicação ocorre via Wi-Fi e RFID, permitindo o controle tanto pelo celular quanto por cartões de aproximação, garantindo segurança mesmo sem acesso ao smartphone.
 
-Entre as principais funções estão o controle remoto da fechadura, cadastro de usuários, registro de acessos, alarme automático e design intuitivo do aplicativo, que facilita o uso e o gerenciamento das permissões.
+As principais funcionalidades incluem:
+Controle remoto de abertura e fechamento da fechadura
+Cadastro e autenticação de usuários
+Registro de acessos e eventos
+Sistema de alarme e bloqueio automático
+Interface mobile intuitiva e responsiva
+
+🧩 Tecnologias e Linguagens Utilizadas
+Java – desenvolvimento do aplicativo Android
+PHP – integração entre o app e o banco de dados
+MySQL – armazenamento e gerenciamento das informações
+C++ – programação do microcontrolador e controle da fechadura
+Arduino IDE – ambiente de desenvolvimento do hardware
+XML e HTML/CSS – estrutura e layout das interfaces
+
+Combinando tecnologia, acessibilidade e segurança, o projeto oferece uma solução eficiente para o controle de acesso remoto, unindo conveniência e proteção em um único sistema.
