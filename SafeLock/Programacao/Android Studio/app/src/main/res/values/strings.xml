@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TCC</string>
+    <string name="login"> Login </string>
+    <string name="user"> Usuario </string>
+    <string name="senha"> Senha </string>
+    <string name="logar"> Logar </string>
+    <string name="cad"> Cadastrar </string>
+    <string name="cadFechadura"> Cadastre o PIN da Fechadura </string>
+    <string name="vinc"> Após o cadastro a fechadura irá se
+        vincular com a conta logada</string>
+    <string name="title_activity_app">app</string>
+    <string name="cadF">Cadastrar Fechadura</string>
+    <string name="cpf">CPF</string>
+    <string name="nom">Nome</string>
+    <string name="pin">PIN</string>
+    <string name="logotipo1">Mais Segurança</string>
+    <string name="logotipo2">Mais Praticidade</string>
+    <string name="help">Não tem Cadastro ?</string>
+    <string name="Voltar">Voltar</string>
+    <string name="logado_cm">Logado Como:</string>
+    <string name="help2">Já tem Login ?</string>
+    <string name="notifica">Notificações</string>
+    <string name="fechaUti">Fechadura Utilizada:</string>
+    <string name="disp">Dispositivos</string>
+
+
+</resources>
