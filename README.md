@@ -1,34 +1,8 @@
 # SafeLock
-Este projeto apresenta uma fechadura eletrônica inteligente desenvolvida para oferecer segurança, praticidade e controle remoto no acesso a residências e pequenos estabelecimentos.
-Por meio de um aplicativo mobile, o usuário pode trancar ou destrancar portas à distância, acompanhar o histórico de acessos, configurar alarmes automáticos e receber notificações em tempo real.
+Este projeto apresenta uma fechadura eletrônica inteligente desenvolvida para garantir mais segurança e praticidade no controle de acesso a residências e pequenos estabelecimentos. O sistema permite trancar e destrancar portas remotamente por meio de um aplicativo mobile, possibilitando ao usuário monitorar o uso em tempo real, configurar alarmes automáticos e receber notificações de acesso.
 
-O sistema integra hardware e software para proporcionar uma experiência moderna e funcional. A comunicação ocorre via Wi-Fi e RFID, permitindo o controle tanto pelo celular quanto por cartões de aproximação, garantindo segurança mesmo sem acesso ao smartphone.
+A solução combina hardware e software em uma integração que utiliza conexão Wi-Fi e tecnologia RFID, permitindo o controle tanto pelo celular quanto por cartões de aproximação, o que assegura o funcionamento mesmo sem o uso do smartphone. Além de reforçar a segurança, o sistema proporciona comodidade, sendo especialmente útil para quem vive sozinho ou precisa gerenciar o acesso de visitantes, funcionários ou familiares.
 
-As principais funcionalidades incluem:
+O desenvolvimento envolveu diversas linguagens e tecnologias, entre elas Java para o aplicativo Android, PHP para a comunicação com o servidor, MySQL para o gerenciamento do banco de dados, C++ para a programação do microcontrolador e Arduino IDE como ambiente de desenvolvimento do hardware. Também foram aplicadas estruturas em XML, HTML e CSS para a interface e layout do sistema.
 
-Controle remoto de abertura e fechamento da fechadura
-
-Cadastro e autenticação de usuários
-
-Registro de acessos e eventos
-
-Sistema de alarme e bloqueio automático
-
-Interface mobile intuitiva e responsiva
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-Tecnologias e Linguagens Utilizadas
-
-Java – desenvolvimento do aplicativo Android
-
-PHP – integração entre o app e o banco de dados
-
-MySQL – armazenamento e gerenciamento das informações
-
-C++ – programação do microcontrolador e controle da fechadura
-
-Arduino IDE – ambiente de desenvolvimento do hardware
-
-XML e HTML/CSS – estrutura e layout das interfaces
-
-Combinando tecnologia, acessibilidade e segurança, o projeto oferece uma solução eficiente para o controle de acesso remoto, unindo conveniência e proteção em um único sistema.
-
+O resultado é uma solução moderna, acessível e eficiente, que une segurança, conectividade e conveniência em um único sistema de controle de acesso remoto.
